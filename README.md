@@ -13,3 +13,5 @@ Skeletal versions of Asteroids, Lunar Lander, Space Invaders and Snake in JavaSc
 ![Screenshot of Space Invaders](space-invaders/screenshot.png)
 
 ![Screenshot of Snake](snake/screenshot.png)
+
+Ted 0231
